@@ -1,5 +1,3 @@
-/* eslint-disable */
-
 'production';
 
 const merge = require('webpack-merge');
